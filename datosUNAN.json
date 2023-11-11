@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nameFacultad": "Facultad de ciencias y tecnologías",
+      "nameUNI": "UNAN - Leon"
+    },
+    {
+        "id": 2,
+        "nameFacultad": "Facultad de ciencias medicas",
+        "nameUNI": "UNAN - Leon"
+    },
+    {
+        "id": 3,
+        "nameFacultad": "Facultad de Derecho",
+        "nameUNI": "UNAN - Leon"
+    }
+]
