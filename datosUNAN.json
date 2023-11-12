@@ -1,7 +1,12 @@
 [
     {
       "id": 1,
-      "nameFacultad": "Capitulo 1 -Introducción a git ",
+      "nameFacultad": "Capitulo 1 - Introducción a git",
       "nameUNI": "UNAN - Leon"
+    },
+    {
+        "id": 1,
+        "nameFacultad": "Capitulo 2 - Flujo de trabajo basico",
+        "nameUNI": "UNAN - Leon"
     }
 ]
