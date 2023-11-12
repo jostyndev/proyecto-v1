@@ -5,8 +5,13 @@
       "nameUNI": "UNAN - Leon"
     },
     {
-        "id": 1,
-        "nameFacultad": "Capitulo 2 - Flujo de trabajo basico",
+        "id": 2,
+        "nameFacultad": "Capitulo 2 - Flujo de trabajo básico",
+        "nameUNI": "UNAN - Leon"
+    },
+    {
+        "id": 3,
+        "nameFacultad": "Capitulo 3 - Gestión de ramas",
         "nameUNI": "UNAN - Leon"
     }
 ]
